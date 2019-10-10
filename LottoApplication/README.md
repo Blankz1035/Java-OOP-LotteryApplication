@@ -38,6 +38,8 @@ System.out.println("0 - to quit\n"
 
 To get started with this application, you need to clone the repo to your IDE workspace. After this you can simple open in your IDE or run using the console window on your computer using the reserved keyword Java.
 
+In my opinion, it would be easiest to import this project into your IDE to view the output.
+
 ### Prerequisites
 
 ```

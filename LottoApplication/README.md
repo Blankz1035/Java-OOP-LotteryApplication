@@ -1,4 +1,4 @@
-# Java-OOP-Lottery Application
+# Java-OOP-LotteryApplication
 
 A Java based console application that I have created using an OOP approach to showcase the articles of the game Lottery.  
 
@@ -23,7 +23,7 @@ System.out.println("0 - to quit\n"
 				+ "7 - print available actions.");
 ```
 
-###Administrator Menu
+### Administrator Menu
 ```java
 System.out.println("0 - to quit\n"
 				+ "1 - Set a Towns game name\n"
@@ -49,7 +49,7 @@ To get started with this application, you need to clone the repo to your IDE wor
 This lottery application has been created in a way that a lottery game cannot be run without a linked Town object!
 
 Here is a brief overview of the application architecture:
-<b>Classes:</b>
+<br/><b>Classes:</b>
 1. PlayGame <- Main method.
 2. Player
 3. Town
